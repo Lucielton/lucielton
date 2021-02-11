@@ -1,6 +1,6 @@
 ﻿<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Lucielton</h1>
 
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
+<img align='right' src='https://media.tenor.com/images/c22be27210f0a1f98c482ddeb1d28491/tenor.gif'>
 
 **Fullstack Developer Intern** at [Instituto de Inovação Pesquisa e Desenvolvimento](http://ipe.ufrpe.br/).
 
