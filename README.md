@@ -39,10 +39,12 @@
 
 ---
 
-## 😇 My Github Stats:
+## 😇 My Github/Coding Stats:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lucielton&show_icons=true&theme=dracula&line_height=27">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucielton&layout=compact&hide=ruby&theme=dracula&exclude_repo=lucielton-resume">
+   <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucielton&layout=compact">
 </p>
