@@ -46,5 +46,5 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucielton&layout=compact&hide=ruby&theme=dracula&exclude_repo=lucielton-resume">
    <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lucielton&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lucielton&layout=compact&theme=dracula">
 </p>
