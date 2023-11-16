@@ -57,6 +57,7 @@
   <img src=" https://img.shields.io/badge/yarn%20-%2001021.svg?&color=2C8EBB&style=for-the-badge&logo=yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/trello%20-%2001021.svg?&color=0079BF&style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
+
 ---
 
 
