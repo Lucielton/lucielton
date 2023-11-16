@@ -19,31 +19,44 @@
 
 ## 🛠 Tech Stack
 
+### Working Now
+<p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23%20-%2001021.svg?&color=9b4993&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%2001021.svg?&color=007acc&style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/react%20-%2001021.svg?&color=61DAFB&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/html5%20-%2001021.svg?&color=E34F26&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%2001021.svg?&color=1572B6&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/css3%20-%2001021.svg?&color=1572B6&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%2001021.svg?&color=c80ad2&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   <img src="https://img.shields.io/badge/angular%20-%2001021.svg?&color=a6120d&style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/react%20-%2001021.svg?&color=61DAFB&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%2001021.svg?&color=007acc&style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+### Backend
+<p>
   <img src="https://img.shields.io/badge/node.js%20-%2001021.svg?&color=339933&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23%20-%2001021.svg?&color=9b4993&style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+### Another Tools
+<p>
   <img src="https://img.shields.io/badge/R%20-%2001021.svg?&color=276DC3&style=for-the-badge&logo=r&logoColor=white"/>  
   <img src="https://img.shields.io/badge/python%20-%2001021.svg?&color=3776AB&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm%20-%2001021.svg?&color=CB3837&style=for-the-badge&logo=npm&logoColor=white"/>
   <img src=" https://img.shields.io/badge/yarn%20-%2001021.svg?&color=2C8EBB&style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/trello%20-%2001021.svg?&color=0079BF&style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23%20-%2001021.svg?&color=9b4993&style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
-
 ---
 
-## 🛠 Working Now
-<p>
-  <img src="https://img.shields.io/badge/c%23%20-%2001021.svg?&color=9b4993&style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%2001021.svg?&color=007acc&style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-%2001021.svg?&color=61DAFB&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
