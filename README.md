@@ -2,8 +2,6 @@
 
 <img align='right' src='https://media.tenor.com/images/c22be27210f0a1f98c482ddeb1d28491/tenor.gif'>
 
-**Fullstack Developer** at [Tech6](https://tech6group.com/).
-
 <a href="https://linkedin.com/in/lucielton"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucieltonmanoel@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
